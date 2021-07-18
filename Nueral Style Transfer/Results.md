@@ -8,5 +8,5 @@ Moneto Style Painting            |  Stary Night
 
 Using Moneto painting as Content Image and Transfering Style from Stary Night          |  Using Stary Night as Content Image and Transfering Style from Moneto Painting
 :-------------------------:|:-------------------------:
-![Moneto](https://user-images.githubusercontent.com/18621294/126066473-34149b1a-de1e-4eaf-aaac-1362f6fc7f62.png) |![Stary Night](https://user-images.githubusercontent.com/18621294/126069529-366dc229-1453-40ea-a515-cde355fba02a.png)
+![epoch_40](https://user-images.githubusercontent.com/18621294/126072041-82648770-4a19-4eec-9d25-ccd1d32cad3c.png)|![epoch_60](https://user-images.githubusercontent.com/18621294/126072070-920d1854-9483-4339-adc4-9ccb76d6eaf5.png)
 
