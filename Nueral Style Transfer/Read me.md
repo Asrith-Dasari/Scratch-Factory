@@ -1,5 +1,5 @@
 I tried to implement Neural Style from Scratch using this Paper (https://arxiv.org/pdf/1508.06576.pdf).
-I chose two images, one is a Moneto style painting and other is Van Gogh's Stary Night image
+I chose two images for the Neural Style Transfer, one is a Moneto style painting and other is Van Gogh's Stary Night image
 
 Moneto Style Painting            |  Stary Night
 :-------------------------:|:-------------------------:
